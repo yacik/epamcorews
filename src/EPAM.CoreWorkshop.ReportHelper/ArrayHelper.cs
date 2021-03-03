@@ -6,6 +6,7 @@ namespace EPAM.CoreWorkshop.ReportHelper
     {
         public static void Fill<T>(T[] array, T value)
         {
+
 #if NETCOREAPP2_0 || NETCOREAPP2_1
             Array.Fill<T>(array, value);
 #else
