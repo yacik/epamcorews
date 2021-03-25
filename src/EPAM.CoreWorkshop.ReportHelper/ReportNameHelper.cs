@@ -15,5 +15,6 @@ namespace EPAM.CoreWorkshop.ReportHelper
 
             return name;
         }
+        public static void Fun() {}
     }
 }
