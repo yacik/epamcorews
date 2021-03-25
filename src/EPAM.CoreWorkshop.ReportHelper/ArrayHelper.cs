@@ -19,5 +19,8 @@ namespace EPAM.CoreWorkshop.ReportHelper
 
         public static void Fun() {
         }
+
+        public static void Fun1() {
+        }
     }
 }
